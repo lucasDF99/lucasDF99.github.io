@@ -1,0 +1,60 @@
+{
+    "title": "Software Engineer",
+    "summary": "I'm passionate about Computer Software development and learning in general. I enjoy problem solving and looking for different and new solutions to the challenges I face. I yearn to grow as a person and to become a better co-worker, ready to give my best for the company I work for, on a daily basis. Some of my hobbies include reading, writing and drawing",
+    "studies": [
+      {
+        "institute": "University of manchester",
+        "logo": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F50052327%2F226300311547%2F2%2Foriginal.jpg?w=225&auto=format%2Ccompress&q=75&sharp=10&s=fd16a3a4d1f6a9c2f30b3beb58ca1bbe",
+        "url": "https://www.manchester.ac.uk/",
+        "title": "BSc (Hons) Software Engineering (Computer Science) with Industrial Experience",
+        "durationInYears": "4",
+        "graduationYear": 2021
+      },
+      {
+        "institute": "IES Fernando Wirtz",
+        "logo": "https://pbs.twimg.com/profile_images/746624020540493824/BzsPk5Te_400x400.jpg",
+        "url": "http://www.fernandowirtz.com/publicar.php",
+        "title": "Highschool - 4o ESO y Bachiller",
+        "durationInYears": "3",
+        "graduationYear": 2017
+      },
+      {
+        "institute": "Boise High",
+        "logo": "https://static.hudl.com/users/prod/734918_9522b20dea8e45718ef1ce166dbdfa36.jpg",
+        "url": "https://boise.boiseschools.org/",
+        "title": "Junior year in Highschool",
+        "durationInYears": "1",
+        "graduationYear": 2016
+      }
+    ],
+    "experiences": [
+      {
+        "companyName": "thestartupfactory.tech",
+        "logo": "https://pbs.twimg.com/profile_images/884511138511290371/SIJrtHCd.jpg",
+        "url": "https://thestartupfactory.tech/",
+        "roles": [
+          {
+            "title": "Intern",
+            "description": "Working as part of a team developing innovative software solutions including writing code and working as an agile practitioner. Evaluating new startup opportunities as identified or introduced into the business, including consideration of business strategy, business and financial models, technology strategy and product vision/roadmap. Research & evaluate new technologies. Providing input into marketing and business development initiatives. Undertake personal R&D project(s).",
+            "startDate": "2019-07",
+            "currentJob": true,
+            "location": "Manchester, UK"
+          }
+        ]
+      },
+      {
+        "companyName": "Disashop",
+        "logo": "https://lh3.googleusercontent.com/xPQsdqcfosHOq_9ouZSsSB7_Bne9jNHFuYJ56bRfqpeGH_JbyNQaJ29eV0v97gDzVIE=w300",
+        "url": "http://www.disashop.com/es-ES/",
+        "roles": [
+          {
+            "title": "Summer Intern",
+            "description": "Learn about real world web development by constructing usable systems, such as a log in system using PHP, HTML and SQL or studying the differences between pre-constructed web apps.",
+            "startDate": "2019-06",
+            "endDate": "2019-07",
+            "location": "A Coruna, Spain"
+          }
+        ]
+      }
+    ]
+  }
