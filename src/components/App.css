@@ -1,7 +1,7 @@
 .profile-pic {
-  height: 4vmin;
+  height: 10vmin;
   margin-right: 10px;
-  border-radius: 50px;
+  border-radius: 100px;
 }
 
 a {
@@ -59,6 +59,10 @@ footer a {
   font-size: 30px;
   margin-right: 10px;
   margin-left: 10px;
+}
+
+footer a:hover {
+  color: black;
 }
 
 .navbar {

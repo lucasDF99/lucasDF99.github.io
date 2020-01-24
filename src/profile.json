@@ -1,6 +1,7 @@
 {
+    "name": "LUCAS DIAZ FIOL",
     "title": "Software Engineer",
-    "summary": "I'm passionate about Computer Software development and learning in general. I enjoy problem solving and looking for different and new solutions to the challenges I face. I yearn to grow as a person and to become a better co-worker, ready to give my best for the company I work for, on a daily basis. Some of my hobbies include reading, writing and drawing",
+    "summary": "I'm passionate about Computer Software development and learning in general. I enjoy problem solving and looking for different and new solutions to the challenges I face. I yearn to grow and to become a better person, ready to give my best for those around me on a daily basis. Some of my hobbies include reading, writing and drawing.",
     "studies": [
       {
         "institute": "University of manchester",
@@ -14,7 +15,7 @@
         "institute": "IES Fernando Wirtz",
         "logo": "https://pbs.twimg.com/profile_images/746624020540493824/BzsPk5Te_400x400.jpg",
         "url": "http://www.fernandowirtz.com/publicar.php",
-        "title": "Highschool - 4o ESO y Bachiller",
+        "title": "Highschool - 4 ESO y Bachiller",
         "durationInYears": "3",
         "graduationYear": 2017
       },
